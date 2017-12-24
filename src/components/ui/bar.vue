@@ -15,7 +15,6 @@
 
 $black: #000
 $white: #fff
-$grey50: #fafafa
 $widthBarStroke: 2px solid rgba($black, .12)
 $widthBarTextColor: rgba($black, .38)
 
@@ -29,7 +28,7 @@ $widthBarTextColor: rgba($black, .38)
   width: 100%
 
   span
-    background-color: $grey50
+    background-color: $white
     color: $widthBarTextColor
     font-weight: 500
     padding: 0 8px
